@@ -1,6 +1,6 @@
 # Welcome!
 
-I'm still at the novice stage of learning about git and github, but I'm at a point where I use it 
+I'm still at the novice stage of learning about Git and GitHub, but I'm at a point where I use it 
 frequently enough that I thought I'd spend some time on some boiler-plate things for anyone who's 
 poking around my account. For those who don't know me personally, hi---my name is Jacob, I study 
 music theory, and I have just recently got into using my computer as a meaningful tool for 
